@@ -4,7 +4,7 @@ setup(
     name='binary_search_tree',
     version='0.1.0',
     packages=[''],
-    url='',
+    url='https://github.com/charlie572/binary_search_tree',
     license='',
     author='Charlie',
     author_email='barehamcharlie@gmail.com',
